@@ -28,6 +28,14 @@
         android:key="nitrogen_logo"
         android:selectable="false" />
 
+    <!-- Nitrogen-Tmod version -->
+    <Preference
+        android:key="nitrogen_version"
+        android:title="@string/nitrogen_version"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.NitrogenVersionPreferenceController"/>
+
     <!-- Android version -->
     <Preference
         android:key="os_firmware_version"

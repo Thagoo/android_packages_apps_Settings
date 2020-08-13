@@ -48,4 +48,9 @@
     <!-- OTA -->
     <string name="nosupdate_settings_title">Nitrogen-Tmod updates</string>
     <string name="nosupdate_settings_summary">Find new updates</string>
+
+    <!-- About phone screen, Nitrogen-Tmod version -->
+    <string name="nitrogen_version">Nitrogen-Tmod version</string>
+    <string name="nitrogen_version_default">Unknown</string>
+    <string name="keywords_nitrogen_version">Tmod version</string>
 </resources>
